@@ -1,0 +1,57 @@
+#head{
+	text-align: center;
+	font-size: 1.5em;
+	font-family: arial;
+}
+
+#card{
+	
+	font-family: arial;
+	
+
+	
+}
+@media (min-width:0px){.navbar{width: 93.0%;}}
+@media (min-width:576px){.navbar{width: 95.0%;}}
+@media (min-width:768px){.navbar{width: 96.0%;}}
+@media (min-width:992px){.navbar{width: 97.0%;}}
+
+@media (min-width:0px){#pic{width: 7em;}}
+@media (min-width:576px){#pic{width: 10em;}}
+@media (min-width:768px){#pic{width: 12em;}}
+@media (min-width:992px){#pic{width: 15em;}}
+
+@media (min-width:0px){#texts{font-size: 0.7em;}}
+@media (min-width:576px){#texts{font-size: 0.8em;}}
+@media (min-width:768px){#texts{font-size: 0.9em;}}
+@media (min-width:992px){#texts{font-size: 1em;}}
+
+
+#pic{border-radius: 0.5em;}
+
+
+#p{margin-right: 2em}
+#hori{
+	margin-top: 0 !important;
+}
+.card-title{
+	margin-bottom: 0 !important;
+}
+.card-subtitle{
+	padding-bottom: 0.5em;
+}
+.img{border-radius: 1em;}
+.container{
+	
+	
+}
+.offset-1{
+	
+}
+.column{
+	display: flex;
+	flex-direction: column;
+}
+#shadow{
+	box-shadow: 0 1px 5px white;
+}
